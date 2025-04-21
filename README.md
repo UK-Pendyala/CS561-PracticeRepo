@@ -3,8 +3,10 @@
 *Update this README file every time you push to the `main` branch. In addition, make sure you push a new branch README file (make a copy of the `branch-readme.md` template and rename to `your-branch-name`-readme.md) every time you merge a feature branch into `main`.*
 
 ## Team Members
+
 - Name 1: Laxmi Kuntoji (laxmik1112)
-- Name 2 (GitHub ID 2)
+- Manoj (GitHub ID 1)
+- Umakanth (GitHub ID UK-Pendyala)
 - Name 3 (GitHub ID 3)
 - Name 4 (GitHub ID 4)
 - Name 5 (GitHub ID 5)
@@ -23,7 +25,7 @@
 ## Merge Conflicts Resolved
 | Name | # MCs Resolved | Merged Branch
 | --------- | ----------- | ---------------
-| Name 1 | 2 | `feature/new-feature`
+| Umakanth | 1 | `feature/feeds`
 | Name 2 | 1 | `feature/new-feature`
 | Name 3 | 1 | `feature/new-feature`
 | Name 4 | 0 | `feature/new-feature`
